@@ -1,0 +1,9 @@
+student@cemp-OptiPlex-SFF-7010:~/Desktop$ ./client
+Connected to server 
+Server says Hello from server
+
+student@cemp-OptiPlex-SFF-7010:~/Desktop$ ./server
+Server listening at port 8080....
+Client connected
+Client says Hello from client
+
